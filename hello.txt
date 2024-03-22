@@ -1,10 +1,4 @@
 hello ,you definitelt learn Git smoothly!
 hello ,you definitelt learn Git smoothly!
 hello ,you definitelt learn Git smoothly!
-hello ,you definitelt learn Git smoothly!
-hello ,you definitelt learn Git smoothly!
-hello ,you definitelt learn Git smoothly!
-hello ,you definitelt learn Git smoothly!
-Losangele Lakers win the Championship! 2024
-master version
-hot_fix version
+You push this branch sucessfully!Congradulation!
